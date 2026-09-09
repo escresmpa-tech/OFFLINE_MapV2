@@ -1,4 +1,4 @@
-const CACHE_NAME = 'map-app-v4';
+const CACHE_NAME = 'map-app-v5';
 const ASSETS_TO_CACHE = [
     '/',
     '/index.html',
@@ -24,12 +24,30 @@ const ASSETS_TO_CACHE = [
     'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js'
 ];
 
+// Install: Cache files and force immediate takeover
 self.addEventListener('install', event => {
+    self.skipWaiting();
     event.waitUntil(
         caches.open(CACHE_NAME).then(cache => cache.addAll(ASSETS_TO_CACHE))
     );
 });
 
+// Activate: Delete any old, broken caches
+self.addEventListener('activate', event => {
+    event.waitUntil(
+        caches.keys().then(cacheNames => {
+            return Promise.all(
+                cacheNames.map(cache => {
+                    if (cache !== CACHE_NAME) {
+                        return caches.delete(cache);
+                    }
+                })
+            );
+        })
+    );
+});
+
+// Fetch: Intercept requests. If offline, serve from cache.
 self.addEventListener('fetch', event => {
     event.respondWith(
         caches.match(event.request).then(cachedResponse => {
@@ -41,6 +59,8 @@ self.addEventListener('fetch', event => {
                 }
                 return networkResponse;
             });
+        }).catch(() => {
+            console.error("Offline and file not in cache:", event.request.url);
         })
     );
 });
