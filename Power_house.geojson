@@ -1,0 +1,3347 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3398489923526,
+            7.059341235784687
+          ],
+          [
+            80.34000179200861,
+            7.058896336295923
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "Entity": "Line",
+        "Handle": "34889",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999995586484,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 52.00003427851833
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33974365183416,
+            7.059305128751759
+          ],
+          [
+            80.33989645157253,
+            7.058860229305068
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "Entity": "Line",
+        "Handle": "3488A",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000002957228,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 52.00003427675565
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34000179200861,
+            7.058896336295923
+          ],
+          [
+            80.33989645157253,
+            7.058860229305068
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "Entity": "Line",
+        "Handle": "3488B",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999996750992,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 12.300011467032697
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34002022170904,
+            7.058884483998323
+          ],
+          [
+            80.33986863425974,
+            7.058832524737719
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "Entity": "Line",
+        "Handle": "3488D",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999999388385,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 17.700031479077087
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33985596177365,
+            7.059362750071802
+          ],
+          [
+            80.34002022170904,
+            7.058884483998323
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "Entity": "Line",
+        "Handle": "3488E",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000000004994,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 55.89995589385692
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3398489923526,
+            7.059341235784687
+          ],
+          [
+            80.33974365183416,
+            7.059305128751759
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "Entity": "Line",
+        "Handle": "34899",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999995380568,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 12.300011467634693
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33985596177365,
+            7.059362750071802
+          ],
+          [
+            80.33972064691118,
+            7.059316368523684
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "Entity": "Line",
+        "Handle": "3489B",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999999017837,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 15.799957160161492
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33985753938474,
+            7.058873189625809
+          ],
+          [
+            80.33985714845434,
+            7.058873020453578
+          ],
+          [
+            80.339856788821,
+            7.058872792178152
+          ],
+          [
+            80.33985646934977,
+            7.058872510426584
+          ],
+          [
+            80.33985619791571,
+            7.058872182144134
+          ],
+          [
+            80.33985598120975,
+            7.0588718154230605
+          ],
+          [
+            80.33985582457377,
+            7.058871419303149
+          ],
+          [
+            80.33985573186888,
+            7.058871003548872
+          ],
+          [
+            80.3398557053803,
+            7.058870578408696
+          ],
+          [
+            80.33985574576096,
+            7.0588701543624515
+          ],
+          [
+            80.33985585201548,
+            7.058869741863006
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "Entity": "Arc",
+        "Handle": "3489D",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.4712603924552708
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33985753938474,
+            7.058873189625809
+          ],
+          [
+            80.33986010866418,
+            7.058874069755111
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "Entity": "Line",
+        "Handle": "3489E",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.299981365128927
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33986010866418,
+            7.058874069755111
+          ],
+          [
+            80.33986099057304,
+            7.058871503026163
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "Entity": "Line",
+        "Handle": "3489F",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.3000136831896203
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33986099057304,
+            7.058871503026163
+          ],
+          [
+            80.33986527300597,
+            7.058872970813278
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "Entity": "Line",
+        "Handle": "348A0",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.5000327991949908
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33986527300597,
+            7.058872970813278
+          ],
+          [
+            80.33985557562991,
+            7.058901204836763
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "Entity": "Line",
+        "Handle": "348A1",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.300021207214133
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33985557562991,
+            7.058901204836763
+          ],
+          [
+            80.33985129319677,
+            7.05889973704954
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "Entity": "Line",
+        "Handle": "348A2",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.5000327991949908
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33985129319677,
+            7.05889973704954
+          ],
+          [
+            80.33985217510575,
+            7.058897170320621
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "Entity": "Line",
+        "Handle": "348A3",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.3000136831896203
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33985217510575,
+            7.058897170320621
+          ],
+          [
+            80.33984960582619,
+            7.058896290191264
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "Entity": "Line",
+        "Handle": "348A4",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.2999813660103233
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33984615463895,
+            7.0588979758862695
+          ],
+          [
+            80.33984634708997,
+            7.05889754341612
+          ],
+          [
+            80.3398466116773,
+            7.058897150909582
+          ],
+          [
+            80.33984694037035,
+            7.058896810279708
+          ],
+          [
+            80.33984732319288,
+            7.0588965318650345
+          ],
+          [
+            80.3398477485258,
+            7.0588963241157865
+          ],
+          [
+            80.33984820345968,
+            7.058896193337409
+          ],
+          [
+            80.33984867418677,
+            7.058896143499187
+          ],
+          [
+            80.33984914641988,
+            7.058896176113769
+          ],
+          [
+            80.33984960582619,
+            7.058896290191264
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "Entity": "Arc",
+        "Handle": "348A5",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.4712603919586412
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33985585201548,
+            7.058869741863006
+          ],
+          [
+            80.33986863425974,
+            7.058832524737719
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "Entity": "Line",
+        "Handle": "348A6",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.349957132576132
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3398252169048,
+            7.058967302435365
+          ],
+          [
+            80.33982482589796,
+            7.058967133328268
+          ],
+          [
+            80.33982446617891,
+            7.058966905105212
+          ],
+          [
+            80.33982414661483,
+            7.058966623391963
+          ],
+          [
+            80.33982387508306,
+            7.058966295132834
+          ],
+          [
+            80.33982365827694,
+            7.058965928419506
+          ],
+          [
+            80.33982350154079,
+            7.058965532291571
+          ],
+          [
+            80.33982340873824,
+            7.058965116513694
+          ],
+          [
+            80.33982338215685,
+            7.058964691334922
+          ],
+          [
+            80.3398234224519,
+            7.058964267236034
+          ],
+          [
+            80.33982352863008,
+            7.058963854671187
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "Entity": "Arc",
+        "Handle": "348A9",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.4713093289791706
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3398252169048,
+            7.058967302435365
+          ],
+          [
+            80.33982778618338,
+            7.058968183469434
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "Entity": "Line",
+        "Handle": "348AA",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.3000136834907342
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33982778618338,
+            7.058968183469434
+          ],
+          [
+            80.3398286671872,
+            7.058965616739311
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "Entity": "Line",
+        "Handle": "348AB",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.2999813663111592
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3398286671872,
+            7.058965616739311
+          ],
+          [
+            80.33983294962083,
+            7.058967084526769
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "Entity": "Line",
+        "Handle": "348AC",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.5000327985930234
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33983294962083,
+            7.058967084526769
+          ],
+          [
+            80.33982325314582,
+            7.058995318550387
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "Entity": "Line",
+        "Handle": "348AD",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.299988887922498
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33982325314582,
+            7.058995318550387
+          ],
+          [
+            80.33981897071197,
+            7.058993850762819
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "Entity": "Line",
+        "Handle": "348AE",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.5000327985930234
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33981897071197,
+            7.058993850762819
+          ],
+          [
+            80.33981985262135,
+            7.058991284034004
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "Entity": "Line",
+        "Handle": "348AF",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.3000136831896203
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33981985262135,
+            7.058991284034004
+          ],
+          [
+            80.33981728334265,
+            7.058990402999899
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "Entity": "Line",
+        "Handle": "348B0",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.3000136828885064
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3398138321546,
+            7.058992088694567
+          ],
+          [
+            80.33981402460577,
+            7.058991656224411
+          ],
+          [
+            80.33981428919321,
+            7.058991263717882
+          ],
+          [
+            80.33981461788638,
+            7.058990923088033
+          ],
+          [
+            80.33981500070901,
+            7.058990644673396
+          ],
+          [
+            80.33981542604201,
+            7.058990436924194
+          ],
+          [
+            80.33981588097598,
+            7.058990306145869
+          ],
+          [
+            80.33981635170312,
+            7.058990256307702
+          ],
+          [
+            80.3398168239363,
+            7.058990288922343
+          ],
+          [
+            80.33981728334265,
+            7.058990402999899
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "Entity": "Arc",
+        "Handle": "348B1",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.47126039011861803
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33982352863008,
+            7.058963854671187
+          ],
+          [
+            80.33984615463895,
+            7.0588979758862695
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "Entity": "Line",
+        "Handle": "348B2",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001393678,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 7.699943300848015
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3397938490558,
+            7.059058636049435
+          ],
+          [
+            80.33979345804893,
+            7.059058466942354
+          ],
+          [
+            80.33979309832985,
+            7.059058238719302
+          ],
+          [
+            80.33979277876574,
+            7.059057957006048
+          ],
+          [
+            80.33979250723395,
+            7.0590576287469045
+          ],
+          [
+            80.33979229042781,
+            7.059057262033558
+          ],
+          [
+            80.33979213369167,
+            7.059056865905598
+          ],
+          [
+            80.33979204088912,
+            7.059056450127696
+          ],
+          [
+            80.33979201430776,
+            7.059056024948899
+          ],
+          [
+            80.33979205460284,
+            7.05905560084999
+          ],
+          [
+            80.33979216078106,
+            7.0590551882851305
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "Entity": "Arc",
+        "Handle": "348B5",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.4713093308997418
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3397938490558,
+            7.059058636049435
+          ],
+          [
+            80.33979641833608,
+            7.059059516179165
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "Entity": "Line",
+        "Handle": "348B6",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.2999813660103233
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33979641833608,
+            7.059059516179165
+          ],
+          [
+            80.33979729934028,
+            7.059056949449142
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "Entity": "Line",
+        "Handle": "348B7",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.2999813663111592
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33979729934028,
+            7.059056949449142
+          ],
+          [
+            80.33980158177461,
+            7.059058417236953
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "Entity": "Line",
+        "Handle": "348B8",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.5000327985930234
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33980158177461,
+            7.059058417236953
+          ],
+          [
+            80.3397958511721,
+            7.059075101428609
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "Entity": "Line",
+        "Handle": "348B9",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.950071601341273
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3397958511721,
+            7.059075101428609
+          ],
+          [
+            80.33979156964308,
+            7.059073633642016
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "Entity": "Line",
+        "Handle": "348BA",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.49993816600608404
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33979156964308,
+            7.059073633642016
+          ],
+          [
+            80.33979245064735,
+            7.05907106691201
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "Entity": "Line",
+        "Handle": "348BB",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.2999813663111592
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33979245064735,
+            7.05907106691201
+          ],
+          [
+            80.3397898813683,
+            7.059070185877719
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "Entity": "Line",
+        "Handle": "348BC",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.3000136828885064
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33978643108497,
+            7.059071871573394
+          ],
+          [
+            80.3397866234506,
+            7.05907143917477
+          ],
+          [
+            80.3397868879414,
+            7.059071046723846
+          ],
+          [
+            80.33978721652973,
+            7.059070706131989
+          ],
+          [
+            80.33978759924254,
+            7.059070427736576
+          ],
+          [
+            80.33978802446404,
+            7.059070219987248
+          ],
+          [
+            80.33978847928823,
+            7.0590700891894524
+          ],
+          [
+            80.33978894991064,
+            7.059070039313061
+          ],
+          [
+            80.3397894220473,
+            7.059070071871884
+          ],
+          [
+            80.3397898813683,
+            7.059070185877719
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "Entity": "Arc",
+        "Handle": "348BD",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.47116067880752516
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33976284950194,
+            7.059140532257266
+          ],
+          [
+            80.3397688001317,
+            7.059123206157303
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "Entity": "Line",
+        "Handle": "348BE",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999996741045,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.0250825194917876
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33977452982917,
+            7.059106522869427
+          ],
+          [
+            80.33978643108497,
+            7.059071871573394
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "Entity": "Line",
+        "Handle": "348BF",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999990103652,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.050070406393572
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33979216078106,
+            7.0590551882851305
+          ],
+          [
+            80.3398138321546,
+            7.058992088694567
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "Entity": "Line",
+        "Handle": "348C0",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.989999997809086,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 7.375105249976486
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33977621810395,
+            7.059109970633776
+          ],
+          [
+            80.33977582709706,
+            7.059109801526705
+          ],
+          [
+            80.33977546737796,
+            7.059109573303659
+          ],
+          [
+            80.33977514781384,
+            7.0591092915904055
+          ],
+          [
+            80.33977487628204,
+            7.0591089633312585
+          ],
+          [
+            80.33977465947589,
+            7.059108596617904
+          ],
+          [
+            80.33977450273976,
+            7.059108200489934
+          ],
+          [
+            80.3397744099372,
+            7.059107784712021
+          ],
+          [
+            80.33977438335585,
+            7.059107359533212
+          ],
+          [
+            80.33977442365094,
+            7.0591069354342935
+          ],
+          [
+            80.33977452982917,
+            7.059106522869427
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "Entity": "Arc",
+        "Handle": "348C3",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.4713093291530299
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33977621810395,
+            7.059109970633776
+          ],
+          [
+            80.33977878738446,
+            7.059110850763624
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "Entity": "Line",
+        "Handle": "348C4",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.2999813660103233
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33977878738446,
+            7.059110850763624
+          ],
+          [
+            80.33977966838887,
+            7.059108284033659
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "Entity": "Line",
+        "Handle": "348C5",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.2999813663111592
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33977966838887,
+            7.059108284033659
+          ],
+          [
+            80.33978395082359,
+            7.059109751821683
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "Entity": "Line",
+        "Handle": "348C6",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.5000327991949908
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33978395082359,
+            7.059109751821683
+          ],
+          [
+            80.3397782211251,
+            7.059126436014251
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "Entity": "Line",
+        "Handle": "348C7",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.9500392818022316
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3397782211251,
+            7.059126436014251
+          ],
+          [
+            80.33977393869027,
+            7.059124968226161
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "Entity": "Line",
+        "Handle": "348C8",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.5000327991949908
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33977393869027,
+            7.059124968226161
+          ],
+          [
+            80.33977482060018,
+            7.0591224014974925
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "Entity": "Line",
+        "Handle": "348C9",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.3000136831896203
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33977482060018,
+            7.0591224014974925
+          ],
+          [
+            80.33977225132091,
+            7.059121520463084
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "Entity": "Line",
+        "Handle": "348CA",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.3000136828885064
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3397688001317,
+            7.059123206157303
+          ],
+          [
+            80.33976899258305,
+            7.059122773687131
+          ],
+          [
+            80.33976925717066,
+            7.059122381180613
+          ],
+          [
+            80.33976958586398,
+            7.059122040550798
+          ],
+          [
+            80.33976996868677,
+            7.059121762136211
+          ],
+          [
+            80.3397703940199,
+            7.0591215543870725
+          ],
+          [
+            80.33977084895398,
+            7.059121423608819
+          ],
+          [
+            80.33977131968122,
+            7.059121373770731
+          ],
+          [
+            80.33977179191449,
+            7.0591214063854535
+          ],
+          [
+            80.33977225132091,
+            7.059121520463084
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "Entity": "Arc",
+        "Handle": "348CB",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999985200125,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.47126039119750446
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              80.33987239035311,
+              7.059203429426564
+            ],
+            [
+              80.33987110616584,
+              7.059202988910242
+            ],
+            [
+              80.33986993058862,
+              7.059206410914323
+            ],
+            [
+              80.33987121477588,
+              7.059206851430647
+            ]
+          ],
+          [
+            [
+              80.33987106839479,
+              7.0592072790689055
+            ],
+            [
+              80.33987007787515,
+              7.059205983277361
+            ],
+            [
+              80.33987000125728,
+              7.059205964295085
+            ],
+            [
+              80.3398699225077,
+              7.059205958898202
+            ],
+            [
+              80.33986984401655,
+              7.059205967250516
+            ],
+            [
+              80.33986976816611,
+              7.0592059890985235
+            ],
+            [
+              80.33986969725856,
+              7.05920602377911
+            ],
+            [
+              80.33986963344603,
+              7.059206070239678
+            ],
+            [
+              80.33986957866531,
+              7.059206127070088
+            ],
+            [
+              80.33986953457905,
+              7.05920619254547
+            ],
+            [
+              80.33986950252535,
+              7.059206264678562
+            ],
+            [
+              80.33987067810257,
+              7.059202842674483
+            ],
+            [
+              80.33987066040977,
+              7.059202911328203
+            ],
+            [
+              80.33987065368069,
+              7.059202981905026
+            ],
+            [
+              80.33987065808121,
+              7.059203052665211
+            ],
+            [
+              80.33987067350286,
+              7.059203121864497
+            ],
+            [
+              80.33987069956548,
+              7.0592031877971
+            ],
+            [
+              80.33987073562663,
+              7.0592032488377585
+            ],
+            [
+              80.33987078079738,
+              7.059203303481801
+            ],
+            [
+              80.33987083396427,
+              7.059203350382233
+            ],
+            [
+              80.33987089381671,
+              7.0592033883829455
+            ],
+            [
+              80.33987095887932,
+              7.059203416547203
+            ],
+            [
+              80.33987253763964,
+              7.0592030017896015
+            ]
+          ],
+          [
+            [
+              80.33987253763964,
+              7.0592030017896015
+            ],
+            [
+              80.33987239035311,
+              7.059203429426564
+            ]
+          ],
+          [
+            [
+              80.33987121477588,
+              7.059206851430647
+            ],
+            [
+              80.33987106839479,
+              7.0592072790689055
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "Entity": "Insert",
+        "Handle": "348D2",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999998679903,
+        "LineWt": 25,
+        "RefName": "LADDER2",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.7173960853047214
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              80.3398055836096,
+              7.0591805478592216
+            ],
+            [
+              80.3398042994212,
+              7.059180108247261
+            ],
+            [
+              80.33980312384357,
+              7.059183530251136
+            ],
+            [
+              80.33980440803069,
+              7.059183970767634
+            ]
+          ],
+          [
+            [
+              80.33980426164955,
+              7.059184398405851
+            ],
+            [
+              80.33980327113017,
+              7.059183102614201
+            ],
+            [
+              80.33980319458406,
+              7.0591830835466896
+            ],
+            [
+              80.33980311589035,
+              7.059183078053391
+            ],
+            [
+              80.33980303743748,
+              7.059183086301033
+            ],
+            [
+              80.3398029616066,
+              7.059183108039288
+            ],
+            [
+              80.33980289069922,
+              7.059183142608376
+            ],
+            [
+              80.33980282686751,
+              7.059183188959085
+            ],
+            [
+              80.3398027720488,
+              7.059183245684619
+            ],
+            [
+              80.33980272790693,
+              7.059183311063292
+            ],
+            [
+              80.33980269578163,
+              7.059183383110787
+            ],
+            [
+              80.33980387135927,
+              7.059179961106913
+            ],
+            [
+              80.33980385360108,
+              7.059180029836837
+            ],
+            [
+              80.33980384681936,
+              7.059180100499161
+            ],
+            [
+              80.33980385118129,
+              7.059180171352032
+            ],
+            [
+              80.33980386657933,
+              7.0591802406489
+            ],
+            [
+              80.33980389263391,
+              7.059180306681575
+            ],
+            [
+              80.3398039287028,
+              7.059180367822323
+            ],
+            [
+              80.33980397389686,
+              7.059180422564006
+            ],
+            [
+              80.33980402710208,
+              7.059180469557219
+            ],
+            [
+              80.33980408700688,
+              7.059180507643564
+            ],
+            [
+              80.33980415213462,
+              7.059180535884197
+            ],
+            [
+              80.33980573089617,
+              7.059180120222286
+            ]
+          ],
+          [
+            [
+              80.33980573089617,
+              7.059180120222286
+            ],
+            [
+              80.3398055836096,
+              7.0591805478592216
+            ]
+          ],
+          [
+            [
+              80.33980440803069,
+              7.059183970767634
+            ],
+            [
+              80.33980426164955,
+              7.059184398405851
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "Entity": "Insert",
+        "Handle": "348D3",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999999017837,
+        "LineWt": 25,
+        "RefName": "LADDER2",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.7174401836820716
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "MultiLineString",
+        "coordinates": [
+          [
+            [
+              80.33984987888675,
+              7.059299635640433
+            ],
+            [
+              80.33984722406153,
+              7.0593073647590945
+            ]
+          ],
+          [
+            [
+              80.3398503069501,
+              7.059299781876217
+            ],
+            [
+              80.33984987888675,
+              7.059299635640433
+            ]
+          ],
+          [
+            [
+              80.33985088139332,
+              7.059299501378304
+            ],
+            [
+              80.33984959720583,
+              7.059299060861904
+            ]
+          ],
+          [
+            [
+              80.33984228428541,
+              7.059323139202476
+            ],
+            [
+              80.33984185622205,
+              7.0593229929667
+            ]
+          ],
+          [
+            [
+              80.33984959720583,
+              7.059299060861904
+            ],
+            [
+              80.33984685964133,
+              7.0593070331835674
+            ]
+          ],
+          [
+            [
+              80.3398503069501,
+              7.059299781876217
+            ],
+            [
+              80.33984758848045,
+              7.059307697239172
+            ]
+          ],
+          [
+            [
+              80.33984795289939,
+              7.059308029719231
+            ],
+            [
+              80.33984256596632,
+              7.059323713981026
+            ]
+          ],
+          [
+            [
+              80.33984256596632,
+              7.059323713981026
+            ],
+            [
+              80.33984128177879,
+              7.059323273464598
+            ]
+          ],
+          [
+            [
+              80.33983558365402,
+              7.059303629746227
+            ],
+            [
+              80.33984671780912,
+              7.059307445451116
+            ]
+          ],
+          [
+            [
+              80.33983470264943,
+              7.05930619647627
+            ],
+            [
+              80.33984583589914,
+              7.059310012179907
+            ]
+          ],
+          [
+            [
+              80.33983293973476,
+              7.05931132993507
+            ],
+            [
+              80.33984407298459,
+              7.059315145638758
+            ]
+          ],
+          [
+            [
+              80.33983205782471,
+              7.059313896663825
+            ],
+            [
+              80.33984319107458,
+              7.059317712367538
+            ]
+          ],
+          [
+            [
+              80.33983117591463,
+              7.059316463392578
+            ],
+            [
+              80.33984231006998,
+              7.059320279097597
+            ]
+          ],
+          [
+            [
+              80.33984495398916,
+              7.059312578908694
+            ],
+            [
+              80.33983382073939,
+              7.059308763205031
+            ]
+          ],
+          [
+            [
+              80.33983029490997,
+              7.059319030122609
+            ],
+            [
+              80.33984142815994,
+              7.059322845826373
+            ]
+          ],
+          [
+            [
+              80.33984868173853,
+              7.0593086937748355
+            ],
+            [
+              80.33984295682647,
+              7.059303476455905
+            ],
+            [
+              80.33984149074745,
+              7.0593042423325585
+            ],
+            [
+              80.33984275001245,
+              7.059301185879356
+            ],
+            [
+              80.33984128393342,
+              7.05930195175601
+            ],
+            [
+              80.3398364397785,
+              7.05929753619694
+            ]
+          ],
+          [
+            [
+              80.33983822847861,
+              7.059295929558636
+            ],
+            [
+              80.33983846106334,
+              7.05929600858226
+            ]
+          ],
+          [
+            [
+              80.33983586153559,
+              7.059320937522248
+            ],
+            [
+              80.33984379510399,
+              7.0592978369581765
+            ]
+          ],
+          [
+            [
+              80.33984174720004,
+              7.059299619614234
+            ],
+            [
+              80.33984431648042,
+              7.059300500648356
+            ],
+            [
+              80.33984379510399,
+              7.0592978369581765
+            ],
+            [
+              80.33984174720004,
+              7.059299619614234
+            ]
+          ],
+          [
+            [
+              80.33983606957256,
+              7.059321726571547
+            ],
+            [
+              80.33983651052823,
+              7.059320442754891
+            ]
+          ],
+          [
+            [
+              80.33983565349733,
+              7.0593201493774975
+            ],
+            [
+              80.33983521254167,
+              7.059321433194135
+            ]
+          ],
+          [
+            [
+              80.33983822847861,
+              7.059295929558636
+            ],
+            [
+              80.33984936172813,
+              7.059299745262187
+            ]
+          ],
+          [
+            [
+              80.33984685964133,
+              7.0593070331835674
+            ],
+            [
+              80.33984128177879,
+              7.059323273464598
+            ]
+          ],
+          [
+            [
+              80.33983646556403,
+              7.059301063017458
+            ],
+            [
+              80.33984203218947,
+              7.059302970417026
+            ]
+          ],
+          [
+            [
+              80.33984203218947,
+              7.059302970417026
+            ],
+            [
+              80.33984759881366,
+              7.0593048787210435
+            ]
+          ],
+          [
+            [
+              80.33983734747405,
+              7.059298496288689
+            ],
+            [
+              80.33984848072362,
+              7.059302311992249
+            ]
+          ],
+          [
+            [
+              80.33984722406153,
+              7.0593073647590945
+            ],
+            [
+              80.33984185622205,
+              7.0593229929667
+            ]
+          ],
+          [
+            [
+              80.33984758848045,
+              7.059307697239172
+            ],
+            [
+              80.33984228428541,
+              7.059323139202476
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "Entity": "Insert",
+        "Handle": "348FA",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.990000000000535,
+        "LineWt": 25,
+        "RefName": "pelleh",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 29.761040945186355
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33982823742198,
+            7.059325018855257
+          ],
+          [
+            80.33984146063989,
+            7.059286517916145
+          ],
+          [
+            80.3398328966723,
+            7.0592835823421
+          ],
+          [
+            80.33981967345385,
+            7.059322083280915
+          ],
+          [
+            80.33982823742198,
+            7.059325018855257
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "Entity": "LWPolyline",
+        "Handle": "34914",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.990000000000535,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 10.99996451088888
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33995272791682,
+            7.058974589735282
+          ],
+          [
+            80.33995290140773,
+            7.058975477330046
+          ],
+          [
+            80.33993868306085,
+            7.058978254948446
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "Entity": "LWPolyline",
+        "Handle": "34941",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001388065,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.7000594010283316
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33993157434072,
+            7.058979643305852
+          ],
+          [
+            80.33991735690036,
+            7.058982420020326
+          ],
+          [
+            80.33991718340953,
+            7.058981532425557
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "Entity": "LWPolyline",
+        "Handle": "34942",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001388065,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.6999419589593074
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33994699457455,
+            7.058945294573627
+          ],
+          [
+            80.33994682017821,
+            7.058944406977583
+          ],
+          [
+            80.3399326027377,
+            7.058947184597167
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "Entity": "LWPolyline",
+        "Handle": "34943",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001388065,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.699980640182567
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33992549401805,
+            7.058948572954524
+          ],
+          [
+            80.33991127657863,
+            7.058951349668901
+          ],
+          [
+            80.33991145006947,
+            7.058952237263672
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "Entity": "LWPolyline",
+        "Handle": "34944",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001388065,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.6999419598730734
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33992040453984,
+            7.05906870345543
+          ],
+          [
+            80.3399205780307,
+            7.059069591050198
+          ],
+          [
+            80.3399063605875,
+            7.059072367764067
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "Entity": "LWPolyline",
+        "Handle": "34989",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001388065,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.6999419598730734
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33989925186587,
+            7.059073756120832
+          ],
+          [
+            80.33988503351576,
+            7.0590765337372785
+          ],
+          [
+            80.33988486002625,
+            7.059075645237971
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "Entity": "LWPolyline",
+        "Handle": "3498A",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001388065,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.7001575227722177
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33991467119901,
+            7.059039408293574
+          ],
+          [
+            80.33991449770816,
+            7.059038520698787
+          ],
+          [
+            80.33990028026592,
+            7.059041297412559
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "Entity": "LWPolyline",
+        "Handle": "3498B",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001388065,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.6999419607869186
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33989317063931,
+            7.059042685767996
+          ],
+          [
+            80.3398789531956,
+            7.059045463385624
+          ],
+          [
+            80.33987912668637,
+            7.059046350980419
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "Entity": "LWPolyline",
+        "Handle": "3498C",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9900000001388065,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.6999612892278873
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33989970719331,
+            7.059130048725995
+          ],
+          [
+            80.33989978180578,
+            7.059130428736462
+          ],
+          [
+            80.33989435222321,
+            7.059131489312746
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "Entity": "LWPolyline",
+        "Handle": "349C5",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.990000000138231,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.6538342445552319
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33988997776322,
+            7.059132344242821
+          ],
+          [
+            80.33988454818191,
+            7.059133403914437
+          ],
+          [
+            80.33988447356947,
+            7.059133023903969
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "Entity": "LWPolyline",
+        "Handle": "349C6",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.990000000138231,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.6538149229184195
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3398972495311,
+            7.0591174930097464
+          ],
+          [
+            80.33989717582408,
+            7.0591171130005606
+          ],
+          [
+            80.3398920469299,
+            7.059118114302795
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "Entity": "LWPolyline",
+        "Handle": "349C7",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.990000000138231,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.6199653552832758
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33988707109485,
+            7.059119086876355
+          ],
+          [
+            80.33988194220063,
+            7.0591200881784895
+          ],
+          [
+            80.33988201681181,
+            7.0591204690934894
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "Entity": "LWPolyline",
+        "Handle": "349C8",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.990000000138231,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.6200827370703221
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33988207624932,
+            7.059181383315013
+          ],
+          [
+            80.33988215086178,
+            7.059181763325482
+          ],
+          [
+            80.33987672127857,
+            7.059182823901497
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "Entity": "LWPolyline",
+        "Handle": "34A07",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.990000000138231,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.6538342445552319
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33987234681935,
+            7.059183677926826
+          ],
+          [
+            80.33986691723614,
+            7.059184738502706
+          ],
+          [
+            80.33986684262369,
+            7.059184358492236
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "Entity": "LWPolyline",
+        "Handle": "34A08",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.990000000138231,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.6538342432814539
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33987961949289,
+            7.059168827599998
+          ],
+          [
+            80.33987954488043,
+            7.05916844758953
+          ],
+          [
+            80.33987441598568,
+            7.059169448891528
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "Entity": "LWPolyline",
+        "Handle": "34A09",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.990000000138231,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.6199846301282558
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33986944015004,
+            7.059170421464843
+          ],
+          [
+            80.33986431125524,
+            7.059171422766711
+          ],
+          [
+            80.33986438586638,
+            7.059171803681728
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "Entity": "LWPolyline",
+        "Handle": "34A0A",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.990000000138231,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.620082738537959
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3397791222126,
+            7.059146109127794
+          ],
+          [
+            80.33972064691118,
+            7.059316368523684
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "Entity": "Line",
+        "Handle": "34A4F",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999996741045,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 19.899992526940743
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3397791222126,
+            7.059146109127794
+          ],
+          [
+            80.33976284950194,
+            7.059140532257266
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "Entity": "Line",
+        "Handle": "34A50",
+        "Layer": "4",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": -1.9899999996741045,
+        "LineWt": 25,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.900042001539315
+      }
+    }
+  ]
+}

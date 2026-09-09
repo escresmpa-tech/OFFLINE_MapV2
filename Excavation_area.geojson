@@ -1,0 +1,5228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33984931353498,
+            7.057097061760659
+          ],
+          [
+            80.33984972807775,
+            7.057097163654915
+          ],
+          [
+            80.33986976868083,
+            7.057159282939519
+          ],
+          [
+            80.33988138970643,
+            7.057160685122217
+          ],
+          [
+            80.33989303312819,
+            7.057162256484463
+          ],
+          [
+            80.33990470344507,
+            7.057164016932387
+          ],
+          [
+            80.33991671434669,
+            7.057168232771369
+          ],
+          [
+            80.33992891346364,
+            7.057173807488711
+          ],
+          [
+            80.33994129990084,
+            7.057180733846887
+          ],
+          [
+            80.33996635331273,
+            7.057196607691627
+          ],
+          [
+            80.33997890197297,
+            7.057204706556456
+          ],
+          [
+            80.33999156177529,
+            7.057213604283127
+          ],
+          [
+            80.34000536714632,
+            7.057223001123807
+          ],
+          [
+            80.34002115680394,
+            7.057234610550249
+          ],
+          [
+            80.3400388434134,
+            7.0572519203282695
+          ],
+          [
+            80.34005938234795,
+            7.057266520531388
+          ],
+          [
+            80.34010495799895,
+            7.0572947268773785
+          ],
+          [
+            80.34012961012516,
+            7.057307540102892
+          ],
+          [
+            80.34015890782068,
+            7.057321771874386
+          ],
+          [
+            80.3402014550203,
+            7.05734983463239
+          ],
+          [
+            80.34021992976761,
+            7.05735918922271
+          ],
+          [
+            80.34032264686722,
+            7.057409366982027
+          ],
+          [
+            80.34032814106071,
+            7.057417013550664
+          ],
+          [
+            80.34035257630886,
+            7.057426978076089
+          ],
+          [
+            80.3403738468275,
+            7.057437118130658
+          ],
+          [
+            80.34039406153063,
+            7.057447317296243
+          ],
+          [
+            80.34040289484228,
+            7.057450568016494
+          ],
+          [
+            80.3404162993114,
+            7.057452158136651
+          ],
+          [
+            80.3404408097129,
+            7.057451891560531
+          ],
+          [
+            80.34046447695614,
+            7.057453046626443
+          ],
+          [
+            80.34048931689082,
+            7.0574540902811185
+          ],
+          [
+            80.34048998685485,
+            7.057454129218223
+          ],
+          [
+            80.34053418242621,
+            7.0574575673879325
+          ],
+          [
+            80.34055635464888,
+            7.057463948553568
+          ],
+          [
+            80.34056868425081,
+            7.057472020863037
+          ],
+          [
+            80.34060288899654,
+            7.057485265456367
+          ],
+          [
+            80.34060907636041,
+            7.0574861552148835
+          ],
+          [
+            80.34062634306545,
+            7.057485424319265
+          ],
+          [
+            80.34064092916324,
+            7.057489546088809
+          ],
+          [
+            80.3406499073998,
+            7.057497237375305
+          ],
+          [
+            80.34065820232566,
+            7.057505363682666
+          ],
+          [
+            80.340718565424,
+            7.057479915709949
+          ],
+          [
+            80.34074807287388,
+            7.057443841082073
+          ],
+          [
+            80.34076109257222,
+            7.057429410415967
+          ],
+          [
+            80.34075721758342,
+            7.057417712009305
+          ],
+          [
+            80.34074193520652,
+            7.057400796410714
+          ],
+          [
+            80.34072345562616,
+            7.0573692553799034
+          ],
+          [
+            80.34070715849221,
+            7.057347699887774
+          ],
+          [
+            80.34069251934207,
+            7.0573337240331
+          ],
+          [
+            80.34067793956069,
+            7.057320024145306
+          ],
+          [
+            80.3406488276887,
+            7.057292836097287
+          ],
+          [
+            80.34063240635298,
+            7.057282271441533
+          ],
+          [
+            80.34061478523557,
+            7.057270488489854
+          ],
+          [
+            80.3405971198926,
+            7.05725860688073
+          ],
+          [
+            80.34058413170247,
+            7.057239264031173
+          ],
+          [
+            80.3405698894716,
+            7.057221214704971
+          ],
+          [
+            80.34055259332847,
+            7.057207568866728
+          ],
+          [
+            80.34053463415964,
+            7.057192181764475
+          ],
+          [
+            80.3405139642694,
+            7.057181175116639
+          ],
+          [
+            80.34048739172249,
+            7.057168998704474
+          ],
+          [
+            80.3404455445253,
+            7.057140219664484
+          ],
+          [
+            80.34042892605967,
+            7.057128203848587
+          ],
+          [
+            80.34037565928884,
+            7.057099630278496
+          ],
+          [
+            80.34033866646942,
+            7.057091704924141
+          ],
+          [
+            80.34030398665995,
+            7.057075086629543
+          ],
+          [
+            80.34027399055722,
+            7.057059169635491
+          ],
+          [
+            80.34024304951865,
+            7.057046215467639
+          ],
+          [
+            80.34019784967593,
+            7.05702437307604
+          ],
+          [
+            80.34018381035528,
+            7.057013305233057
+          ],
+          [
+            80.34017108122498,
+            7.057002214819218
+          ],
+          [
+            80.34015653127504,
+            7.056995599282897
+          ],
+          [
+            80.34014076311286,
+            7.05699182950244
+          ],
+          [
+            80.34012533114938,
+            7.056987859389811
+          ],
+          [
+            80.340110382187,
+            7.056983602317137
+          ],
+          [
+            80.34008141855175,
+            7.056974530488174
+          ],
+          [
+            80.34006704966033,
+            7.05696985362515
+          ],
+          [
+            80.3400543075966,
+            7.0569627829466635
+          ],
+          [
+            80.34004211615854,
+            7.056954985799639
+          ],
+          [
+            80.34002997273166,
+            7.056947172438578
+          ],
+          [
+            80.34001782024708,
+            7.056939361778033
+          ],
+          [
+            80.33995618270268,
+            7.056936438005602
+          ],
+          [
+            80.3399338407501,
+            7.056920149195464
+          ],
+          [
+            80.33992389767647,
+            7.0569115872740475
+          ],
+          [
+            80.33991325163844,
+            7.056903273105749
+          ],
+          [
+            80.33990248152124,
+            7.056894984088755
+          ],
+          [
+            80.339891580043,
+            7.056886747348868
+          ],
+          [
+            80.33988047202627,
+            7.0568785817750195
+          ],
+          [
+            80.33987347923977,
+            7.056874214738271
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "Entity": "LWPolyline",
+        "Handle": "5C0E9",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 238.28916664454005
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3400543075966,
+            7.0569627829466635
+          ],
+          [
+            80.3399172759519,
+            7.057009583442641
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "Entity": "LWPolyline",
+        "Handle": "5C0FA",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 15.994415761216118
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34004211615854,
+            7.056954985799639
+          ],
+          [
+            80.33991463077521,
+            7.0569983734102175
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "Entity": "LWPolyline",
+        "Handle": "5C0FB",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 14.874723811303678
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3399338407501,
+            7.056920149195464
+          ],
+          [
+            80.33989377788907,
+            7.056933776359992
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "Entity": "LWPolyline",
+        "Handle": "5C0FC",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.674179564726037
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3399822889219,
+            7.057146737847108
+          ],
+          [
+            80.33999156177529,
+            7.057213604283127
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "Entity": "LWPolyline",
+        "Handle": "5C0FD",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 7.46296187740041
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34006697343521,
+            7.056969972916096
+          ],
+          [
+            80.34006522629184,
+            7.056971013375732
+          ],
+          [
+            80.33992295991209,
+            7.057019402978076
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "Entity": "LWPolyline",
+        "Handle": "5C0FE",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 16.82296948002581
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34002997273166,
+            7.056947172438578
+          ],
+          [
+            80.33991201619996,
+            7.056987292769652
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "Entity": "LWPolyline",
+        "Handle": "5C0FF",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 13.76205228771864
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33995527536199,
+            7.057116728766929
+          ],
+          [
+            80.33996635331273,
+            7.057196607691627
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "Entity": "LWPolyline",
+        "Handle": "5C100",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 8.915294087496338
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33992927728177,
+            7.05709404333738
+          ],
+          [
+            80.33994129990084,
+            7.057180733846887
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "Entity": "LWPolyline",
+        "Handle": "5C101",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 9.675535870181582
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34002315343797,
+            7.057194233092868
+          ],
+          [
+            80.34002565853076,
+            7.057212293879867
+          ],
+          [
+            80.3400388434134,
+            7.0572519203282695
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "Entity": "LWPolyline",
+        "Handle": "5C102",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 6.632317976311084
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34000960991165,
+            7.057178960759398
+          ],
+          [
+            80.34001459051056,
+            7.057214875152933
+          ],
+          [
+            80.34002115680394,
+            7.057234610550249
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "Entity": "LWPolyline",
+        "Handle": "5C103",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 6.307603822946831
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3399687821415,
+            7.057131733307178
+          ],
+          [
+            80.33997890197297,
+            7.057204706556456
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "Entity": "LWPolyline",
+        "Handle": "5C104",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 8.144544776601585
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34008141855175,
+            7.056974530488174
+          ],
+          [
+            80.34007000139907,
+            7.056981333642062
+          ],
+          [
+            80.3399829974246,
+            7.057010926439871
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "Entity": "LWPolyline",
+        "Handle": "5C105",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 11.619045499051852
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33991420023042,
+            7.057067718121327
+          ],
+          [
+            80.33992891346364,
+            7.057173807488711
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "Entity": "LWPolyline",
+        "Handle": "5C106",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 11.84064872514611
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33986027715234,
+            7.05709084139687
+          ],
+          [
+            80.33986976868083,
+            7.057159282939519
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "Entity": "LWPolyline",
+        "Handle": "5C107",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 7.6387633811282925
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33987087014921,
+            7.057084832169989
+          ],
+          [
+            80.33988138970643,
+            7.057160685122217
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "Entity": "LWPolyline",
+        "Handle": "5C108",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 8.465954249192128
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33988146224041,
+            7.057078822941576
+          ],
+          [
+            80.33989303312819,
+            7.057162256484463
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "Entity": "LWPolyline",
+        "Handle": "5C109",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 9.312024990483854
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33989205523675,
+            7.057072813714177
+          ],
+          [
+            80.33990470344507,
+            7.057164016932387
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "Entity": "LWPolyline",
+        "Handle": "5C10A",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 10.179195951577016
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33990264823284,
+            7.057066804486493
+          ],
+          [
+            80.33991671434669,
+            7.057168232771369
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "Entity": "LWPolyline",
+        "Handle": "5C10B",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 11.32041428531327
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34009590082194,
+            7.056979066403499
+          ],
+          [
+            80.34007477650778,
+            7.056991653003808
+          ],
+          [
+            80.34000124729951,
+            7.057016663481329
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "Entity": "LWPolyline",
+        "Handle": "5C10C",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 11.295254369285312
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33994228842118,
+            7.057105473357102
+          ],
+          [
+            80.33995382615386,
+            7.057188670768759
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "Entity": "LWPolyline",
+        "Handle": "5C10D",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 9.285664074174313
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33999595344652,
+            7.057162880515599
+          ],
+          [
+            80.34000352249154,
+            7.057217455521211
+          ],
+          [
+            80.34000536714632,
+            7.057223001123807
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "Entity": "LWPolyline",
+        "Handle": "5C10E",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 6.737180025852753
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.340110382187,
+            7.056983602317137
+          ],
+          [
+            80.34007955070997,
+            7.05700197326879
+          ],
+          [
+            80.34001949627077,
+            7.057022399616285
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "Entity": "LWPolyline",
+        "Handle": "5C10F",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 10.971449855396186
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34012533114938,
+            7.056987859389811
+          ],
+          [
+            80.3400843258178,
+            7.057012293535018
+          ],
+          [
+            80.3400407871413,
+            7.0570271025488145
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "Entity": "LWPolyline",
+        "Handle": "5C110",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 10.352949872189683
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34014076311286,
+            7.05699182950244
+          ],
+          [
+            80.34008910092707,
+            7.057022612896679
+          ],
+          [
+            80.34006207801367,
+            7.057031804575862
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "Entity": "LWPolyline",
+        "Handle": "5C111",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 9.796464020310548
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34015653127504,
+            7.056995599282897
+          ],
+          [
+            80.34009387603528,
+            7.05703293316284
+          ],
+          [
+            80.34008124734522,
+            7.057037229040349
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "Entity": "LWPolyline",
+        "Handle": "5C112",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 9.530783327724336
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33992389767647,
+            7.0569115872740475
+          ],
+          [
+            80.33989012968381,
+            7.056923073258138
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "Entity": "LWPolyline",
+        "Handle": "5C113",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.9397496491860498
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33991325889724,
+            7.056903262261587
+          ],
+          [
+            80.33988648238542,
+            7.0569123692530304
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "Entity": "LWPolyline",
+        "Handle": "5C114",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.1240143745337057
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33990248152124,
+            7.056894984088755
+          ],
+          [
+            80.33988283418047,
+            7.056901666151141
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "Entity": "LWPolyline",
+        "Handle": "5C115",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.2922465947241983
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.339891580043,
+            7.056886747348868
+          ],
+          [
+            80.33987918688109,
+            7.056890963050513
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "Entity": "LWPolyline",
+        "Handle": "5C116",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.4459327817242345
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33988047202627,
+            7.0568785817750195
+          ],
+          [
+            80.33987553958185,
+            7.056880259949885
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "Entity": "LWPolyline",
+        "Handle": "5C117",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.5754893047617204
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34012043010135,
+            7.05704344070138
+          ],
+          [
+            80.3401706251589,
+            7.057013530820475
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "Entity": "Line",
+        "Handle": "5C118",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 6.455039817579798
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34009990260014,
+            7.057042507147105
+          ],
+          [
+            80.34016741685969,
+            7.057002277479777
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "Entity": "Line",
+        "Handle": "5C119",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 8.682259250678102
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33990942720773,
+            7.057062958037149
+          ],
+          [
+            80.3399290556754,
+            7.057094524236968
+          ],
+          [
+            80.33995347819425,
+            7.057114732629198
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "Entity": "LWPolyline",
+        "Handle": "5C11A",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 7,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 7.610719881415799
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34009990260014,
+            7.057042507147105
+          ],
+          [
+            80.34006207801367,
+            7.057031804575862
+          ],
+          [
+            80.34001949627077,
+            7.057022399616285
+          ],
+          [
+            80.3399829974246,
+            7.057010926439871
+          ],
+          [
+            80.33991907329906,
+            7.05701720398331
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "Entity": "LWPolyline",
+        "Handle": "5C11B",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 20.478432913636077
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34005761344,
+            7.0569646174959235
+          ],
+          [
+            80.34009990260014,
+            7.057042507147105
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "Entity": "Line",
+        "Handle": "5C11C",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 9.796137769011455
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33991746076735,
+            7.057020371195967
+          ],
+          [
+            80.33991768995575,
+            7.057019501007582
+          ],
+          [
+            80.339918040209,
+            7.057018672106009
+          ],
+          [
+            80.33991850445014,
+            7.057017901239404
+          ],
+          [
+            80.33991907329906,
+            7.05701720398331
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "Entity": "Arc",
+        "Handle": "5C11D",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 7,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.3981831103511004
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34003663278094,
+            7.057209433876957
+          ],
+          [
+            80.34005176691015,
+            7.057254916331197
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "Entity": "Line",
+        "Handle": "5C11E",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 5.298808239510766
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34014087151398,
+            7.057044425691613
+          ],
+          [
+            80.34017383345702,
+            7.0570247850656935
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "Entity": "Line",
+        "Handle": "5C11F",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.238847840256865
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34016056078562,
+            7.057045858267473
+          ],
+          [
+            80.3401770417565,
+            7.057036038406369
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "Entity": "Line",
+        "Handle": "5C122",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.1193982474350026
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3400544744653,
+            7.057227208804932
+          ],
+          [
+            80.34006204153006,
+            7.057249950484165
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "Entity": "Line",
+        "Handle": "5C123",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.649451545420424
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34007231614976,
+            7.057244984636884
+          ],
+          [
+            80.34010495799895,
+            7.0572947268773785
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "Entity": "Line",
+        "Handle": "5C124",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 6.575574593012206
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33999882809397,
+            7.057218549703617
+          ],
+          [
+            80.34003687871163,
+            7.0572096784492775
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "Entity": "Line",
+        "Handle": "5C128",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.315416330088133
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34010110850657,
+            7.057268237535749
+          ],
+          [
+            80.34012100495704,
+            7.057298557657921
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "Entity": "Line",
+        "Handle": "5C12A",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.008093818348865
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34006204153006,
+            7.057249950484165
+          ],
+          [
+            80.3400821701727,
+            7.057280623704879
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "Entity": "Line",
+        "Handle": "5C12B",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.054800220017817
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34005176691015,
+            7.057254916331197
+          ],
+          [
+            80.34005938234795,
+            7.057266520531388
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "Entity": "Line",
+        "Handle": "5C12C",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.5340258471492358
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34007231614976,
+            7.057244984636884
+          ],
+          [
+            80.34004658248578,
+            7.057257421801412
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "Entity": "Line",
+        "Handle": "5C12D",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.157273672699633
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34012990086632,
+            7.057291490433097
+          ],
+          [
+            80.34015890782068,
+            7.057321771874386
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "Entity": "Line",
+        "Handle": "5C12E",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.633661274334729
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34017625429766,
+            7.0573235267717
+          ],
+          [
+            80.3402014550203,
+            7.05734983463239
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "Entity": "Line",
+        "Handle": "5C12F",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.025632746526807
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34012100495704,
+            7.057298557657921
+          ],
+          [
+            80.34012961012516,
+            7.057307540102892
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "Entity": "Line",
+        "Handle": "5C130",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.3745516105389808
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34011757313442,
+            7.05730128359959
+          ],
+          [
+            80.34012990086632,
+            7.057291490433097
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "Entity": "Line",
+        "Handle": "5C131",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.739527854836385
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34022260773429,
+            7.057355564010796
+          ],
+          [
+            80.34021992976761,
+            7.05735918922271
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "Entity": "Line",
+        "Handle": "5C134",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.49810087378271745
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34039594716549,
+            7.057424563651598
+          ],
+          [
+            80.34035257630886,
+            7.057426978076089
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "Entity": "Line",
+        "Handle": "5C136",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.797513708748717
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34039907594057,
+            7.0574357137618575
+          ],
+          [
+            80.3403738468275,
+            7.057437118130658
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "Entity": "Line",
+        "Handle": "5C137",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.79074453860213
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34040220381036,
+            7.057446863870823
+          ],
+          [
+            80.34039406153063,
+            7.057447317296243
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "Entity": "Line",
+        "Handle": "5C138",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.9006678640160181
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34035965073782,
+            7.057415259863743
+          ],
+          [
+            80.34032814106071,
+            7.057417013550664
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "Entity": "Line",
+        "Handle": "5C139",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.485474068009648
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34032335431185,
+            7.057405956073197
+          ],
+          [
+            80.34032264686722,
+            7.057409366982027
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "Entity": "Line",
+        "Handle": "5C13A",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.38509946774456716
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34040220381036,
+            7.057446863870823
+          ],
+          [
+            80.34039594716549,
+            7.057424563651598
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "Entity": "Line",
+        "Handle": "5C13B",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.560390129372728
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34054220387397,
+            7.0574446112964875
+          ],
+          [
+            80.34048998685485,
+            7.057454129218223
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "Entity": "Line",
+        "Handle": "5C13C",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 5.8623025778942095
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34051239297852,
+            7.057438552207092
+          ],
+          [
+            80.34048597292096,
+            7.057443367712606
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "Entity": "Line",
+        "Handle": "5C13D",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.9661234110488714
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34048258208531,
+            7.05743249221133
+          ],
+          [
+            80.34048936375801,
+            7.057454242309333
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "Entity": "Line",
+        "Handle": "5C13E",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.5185150405630776
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34059362011877,
+            7.057452626662772
+          ],
+          [
+            80.34055635464888,
+            7.057463948553568
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "Entity": "Line",
+        "Handle": "5C13F",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.301895192963208
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34060794710062,
+            7.057483728559289
+          ],
+          [
+            80.34060288899654,
+            7.057485265456367
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "Entity": "Line",
+        "Handle": "5C140",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.5839084257501266
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.340603171138,
+            7.057473361260069
+          ],
+          [
+            80.34058578662406,
+            7.057478642707736
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "Entity": "Line",
+        "Handle": "5C141",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.0068453348044097
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.340598396081,
+            7.057462993962076
+          ],
+          [
+            80.34056868425081,
+            7.057472020863037
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "Entity": "Line",
+        "Handle": "5C142",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.4299071079564065
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34048258208531,
+            7.05743249221133
+          ],
+          [
+            80.34044785748468,
+            7.057448128700646
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "Entity": "Line",
+        "Handle": "5C143",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.2067436461404615
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34046022123796,
+            7.0574301585732195
+          ],
+          [
+            80.34044285938977,
+            7.057437977270277
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "Entity": "Line",
+        "Handle": "5C144",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.1033468804453923
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34048597292096,
+            7.057443367712606
+          ],
+          [
+            80.34046447695614,
+            7.057453046626443
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "Entity": "Line",
+        "Handle": "5C145",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.6041156506394754
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34043786038964,
+            7.057427825838591
+          ],
+          [
+            80.34040220381036,
+            7.057446863870823
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "Entity": "Line",
+        "Handle": "5C146",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.465241101959994
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34041690377809,
+            7.057426194293284
+          ],
+          [
+            80.34039907594057,
+            7.0574357137618575
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "Entity": "Line",
+        "Handle": "5C147",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.2326001195044105
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34044285938977,
+            7.057437977270277
+          ],
+          [
+            80.3404162993114,
+            7.057452158136651
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "Entity": "Line",
+        "Handle": "5C148",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.32607922994445
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34044785748468,
+            7.057448128700646
+          ],
+          [
+            80.3404408097129,
+            7.057451891560531
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "Entity": "Line",
+        "Handle": "5C149",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.8825787499198752
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34043786038964,
+            7.057427825838591
+          ],
+          [
+            80.34044785748468,
+            7.057448128700646
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "Entity": "Line",
+        "Handle": "5C14A",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.5014320486065653
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34068580202825,
+            7.057460979108153
+          ],
+          [
+            80.34064092916324,
+            7.057489546088809
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "Entity": "Line",
+        "Handle": "5C14B",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 5.876720454323156
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34065033779183,
+            7.057470148946677
+          ],
+          [
+            80.34062634306545,
+            7.057485424319265
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "Entity": "Line",
+        "Handle": "5C14C",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.1424308330936834
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34063435425983,
+            7.057466917075679
+          ],
+          [
+            80.34060794710062,
+            7.057483728559289
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "Entity": "Line",
+        "Handle": "5C14D",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.45839044958226
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34061837163483,
+            7.057463684300918
+          ],
+          [
+            80.340603171138,
+            7.057473361260069
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "Entity": "Line",
+        "Handle": "5C14E",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.990715482559736
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34060599587663,
+            7.057458155481997
+          ],
+          [
+            80.340598396081,
+            7.057462993962076
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "Entity": "Line",
+        "Handle": "5C14F",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.9953156136463389
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34069856965951,
+            7.057457678400498
+          ],
+          [
+            80.34065033779183,
+            7.057470148946677
+          ],
+          [
+            80.34061837163483,
+            7.057463684300918
+          ],
+          [
+            80.34059362011877,
+            7.057452626662772
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "Entity": "LWPolyline",
+        "Handle": "5C150",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 12.09913735136551
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34060906549398,
+            7.057486156104067
+          ],
+          [
+            80.34059362011877,
+            7.057452626662772
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "Entity": "Line",
+        "Handle": "5C151",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.080495383890963
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3406499073998,
+            7.057497237375305
+          ],
+          [
+            80.34070347661797,
+            7.057463135159322
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "Entity": "Line",
+        "Handle": "5C152",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 7.015565940236311
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34070347661797,
+            7.057463135159322
+          ],
+          [
+            80.34073528725762,
+            7.05742338232481
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "Entity": "Line",
+        "Handle": "5C153",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 5.62654338294847
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34073528725762,
+            7.05742338232481
+          ],
+          [
+            80.34072345562616,
+            7.0573692553799034
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 83,
+        "Entity": "Line",
+        "Handle": "5C154",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 6.124971139313426
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34072037822162,
+            7.057408172302787
+          ],
+          [
+            80.34070715849221,
+            7.057347699887774
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 84,
+        "Entity": "Line",
+        "Handle": "5C155",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 6.84304506798687
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34070066618214,
+            7.057370992463581
+          ],
+          [
+            80.34069251934207,
+            7.0573337240331
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "Entity": "Line",
+        "Handle": "5C156",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.2172797585557396
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3406867808975,
+            7.057360468477406
+          ],
+          [
+            80.34067793956069,
+            7.057320024145306
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "Entity": "Line",
+        "Handle": "5C157",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.5766692954279975
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34067289561351,
+            7.0573499444908725
+          ],
+          [
+            80.34066338317155,
+            7.05730643012084
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "Entity": "Line",
+        "Handle": "5C158",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.924073456069435
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34065952130976,
+            7.05734175583253
+          ],
+          [
+            80.3406488276887,
+            7.057292836097287
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 88,
+        "Entity": "Line",
+        "Handle": "5C159",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 5.5357322219452
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34064614610108,
+            7.0573335671725825
+          ],
+          [
+            80.34063737853965,
+            7.057293457622463
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 89,
+        "Entity": "Line",
+        "Handle": "5C15A",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.538771593043853
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34001782024708,
+            7.056939361778033
+          ],
+          [
+            80.3399083688994,
+            7.056976589669167
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "Entity": "LWPolyline",
+        "Handle": "5C15B",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 12.769762804275121
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34063094559762,
+            7.057317024355305
+          ],
+          [
+            80.34062656721488,
+            7.057296994462531
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "Entity": "Line",
+        "Handle": "5C15C",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.266571106562913
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34065820232566,
+            7.057505363682666
+          ],
+          [
+            80.34071114351454,
+            7.05747166128807
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "Entity": "Line",
+        "Handle": "5C15D",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 6.933316441490725
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3407597041004,
+            7.057429085535712
+          ],
+          [
+            80.34075721758342,
+            7.057417712009305
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "Entity": "Line",
+        "Handle": "5C15E",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.287029897913319
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34071114351454,
+            7.05747166128807
+          ],
+          [
+            80.34074749567829,
+            7.057426234382671
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "Entity": "Line",
+        "Handle": "5C15F",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 6.429714899621212
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.340746511273,
+            7.057445571062513
+          ],
+          [
+            80.3407597041004,
+            7.057429085535712
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "Entity": "Line",
+        "Handle": "5C160",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.333395682206313
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34074749567829,
+            7.057426234382671
+          ],
+          [
+            80.34074193520652,
+            7.057400796410714
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "Entity": "Line",
+        "Handle": "5C161",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.878544349068886
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33995618270268,
+            7.056936438005602
+          ],
+          [
+            80.33990107339459,
+            7.0569551825623495
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 97,
+        "Entity": "LWPolyline",
+        "Handle": "5C162",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 6.429644917581961
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33994501217826,
+            7.056928294053565
+          ],
+          [
+            80.33989742518904,
+            7.05694447946053
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 98,
+        "Entity": "LWPolyline",
+        "Handle": "5C16C",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 5.551990676958538
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33998700147468,
+            7.0569378998928265
+          ],
+          [
+            80.33990472069357,
+            7.056965886567402
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 99,
+        "Entity": "LWPolyline",
+        "Handle": "5C16D",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 4,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 9.599767352188925
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34069856965951,
+            7.057457678400498
+          ],
+          [
+            80.34072747415851,
+            7.0574215567909295
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 100,
+        "Entity": "Line",
+        "Handle": "5C16E",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 5.112559172814239
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.340718565424,
+            7.057479915709949
+          ],
+          [
+            80.34069856965951,
+            7.057457678400498
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 101,
+        "Entity": "Line",
+        "Handle": "5C16F",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.304693585762569
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34076109257222,
+            7.057429410415967
+          ],
+          [
+            80.34072747415851,
+            7.0574215567909295
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 102,
+        "Entity": "Line",
+        "Handle": "5C170",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.8131418334347202
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34061575588997,
+            7.057300531302334
+          ],
+          [
+            80.3405971198926,
+            7.05725860688073
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 103,
+        "Entity": "Line",
+        "Handle": "5C171",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 5.071372894258825
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34059477184302,
+            7.057281184394134
+          ],
+          [
+            80.34058500256852,
+            7.057259205751942
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 104,
+        "Entity": "Line",
+        "Handle": "5C172",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.6586144218155225
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34062656721488,
+            7.057296994462531
+          ],
+          [
+            80.34061478523557,
+            7.057270488489854
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 105,
+        "Entity": "Line",
+        "Handle": "5C173",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.206272198698759
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34063737853965,
+            7.057293457622463
+          ],
+          [
+            80.34063240635298,
+            7.057282271441533
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 106,
+        "Entity": "Line",
+        "Handle": "5C174",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.3531221746443607
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3406456081903,
+            7.057290765589929
+          ],
+          [
+            80.34061575588997,
+            7.057300531302334
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 107,
+        "Entity": "Line",
+        "Handle": "5C175",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.469297730164905
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34057378870325,
+            7.057261837486432
+          ],
+          [
+            80.34057229079187,
+            7.057227528138649
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 108,
+        "Entity": "Line",
+        "Handle": "5C179",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.7966438441960624
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34056181184773,
+            7.0572469952258245
+          ],
+          [
+            80.34056106289246,
+            7.057229840551961
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "Entity": "Line",
+        "Handle": "5C17A",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.8983219211676516
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34058500256852,
+            7.057259205751942
+          ],
+          [
+            80.34058413170247,
+            7.057239264031173
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 110,
+        "Entity": "Line",
+        "Handle": "5C17B",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.20673531354591
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34057378870325,
+            7.057261837486432
+          ],
+          [
+            80.3405958179117,
+            7.05725666752591
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 111,
+        "Entity": "Line",
+        "Handle": "5C17C",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.49924425372502
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34072747415851,
+            7.0574215567909295
+          ],
+          [
+            80.34070066618214,
+            7.057370992463581
+          ],
+          [
+            80.34067289561351,
+            7.0573499444908725
+          ],
+          [
+            80.34064614610108,
+            7.0573335671725825
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 112,
+        "Entity": "LWPolyline",
+        "Handle": "5C17D",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 13.640706278016882
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34053072748632,
+            7.057213744899922
+          ],
+          [
+            80.34052142621213,
+            7.057189286680916
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 113,
+        "Entity": "Line",
+        "Handle": "5C17E",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.892520261264651
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34056106289246,
+            7.057229840551961
+          ],
+          [
+            80.34055259332847,
+            7.057207568866728
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 114,
+        "Entity": "Line",
+        "Handle": "5C17F",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.633925212838045
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34057229079187,
+            7.057227528138649
+          ],
+          [
+            80.3405698894716,
+            7.057221214704971
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 115,
+        "Entity": "Line",
+        "Handle": "5C180",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.7466647167095996
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34054983589711,
+            7.057232153870785
+          ],
+          [
+            80.34057451065013,
+            7.057227070865916
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 116,
+        "Entity": "Line",
+        "Handle": "5C181",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.7825321199276334
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 117,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34051161998248,
+            7.057195335929682
+          ],
+          [
+            80.34048739172249,
+            7.057168998704474
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 117,
+        "Entity": "Line",
+        "Handle": "5C184",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.954526825467554
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34052142621213,
+            7.057189286680916
+          ],
+          [
+            80.3405139642694,
+            7.057181175116639
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 118,
+        "Entity": "Line",
+        "Handle": "5C185",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.2179427400731182
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34046806324302,
+            7.057164698368817
+          ],
+          [
+            80.3404455445253,
+            7.057140219664484
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 119,
+        "Entity": "Line",
+        "Handle": "5C186",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.6754822948182073
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 120,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34042892605967,
+            7.057128203848587
+          ],
+          [
+            80.34042450741491,
+            7.05713406080566
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 120,
+        "Entity": "Line",
+        "Handle": "5C187",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.8108203562429902
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34052502663252,
+            7.057187065705107
+          ],
+          [
+            80.34051161998248,
+            7.057195335929682
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 121,
+        "Entity": "Line",
+        "Handle": "5C188",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.7402336968515082
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 122,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34037565928884,
+            7.057099630278496
+          ],
+          [
+            80.34037292625096,
+            7.057108260209862
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 122,
+        "Entity": "Line",
+        "Handle": "5C189",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.0006850162268757
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 123,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34031655872569,
+            7.05708839926247
+          ],
+          [
+            80.34033866646942,
+            7.057091704924141
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 123,
+        "Entity": "Line",
+        "Handle": "5C18C",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.468883318779792
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 124,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34042450741491,
+            7.05713406080566
+          ],
+          [
+            80.34037292625096,
+            7.057108260209862
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 124,
+        "Entity": "Line",
+        "Handle": "5C18D",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 6.3710519771301355
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 125,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34016741685969,
+            7.057002277479777
+          ],
+          [
+            80.34017108122498,
+            7.057002214819218
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 125,
+        "Entity": "Line",
+        "Handle": "5C18E",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 0.40476948980155547
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 126,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34018025005615,
+            7.057047291747027
+          ],
+          [
+            80.34024304951865,
+            7.057046215467639
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 126,
+        "Entity": "Line",
+        "Handle": "5C18F",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 6.936895841838512
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 127,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3401706251589,
+            7.057013530820475
+          ],
+          [
+            80.34018381035528,
+            7.057013305233057
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 127,
+        "Entity": "Line",
+        "Handle": "5C190",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.4564502874258056
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 128,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34017383345702,
+            7.0570247850656935
+          ],
+          [
+            80.34019784967593,
+            7.05702437307604
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 128,
+        "Entity": "Line",
+        "Handle": "5C191",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 2.6528581285318893
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 129,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3402202206299,
+            7.057057915029493
+          ],
+          [
+            80.34026093610929,
+            7.057057217288171
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 129,
+        "Entity": "Line",
+        "Handle": "5C192",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.497475196198929
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 130,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3401770417565,
+            7.057036038406369
+          ],
+          [
+            80.34022044914336,
+            7.057035294723967
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 130,
+        "Entity": "Line",
+        "Handle": "5C193",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.794826065422847
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 131,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34018025005615,
+            7.057047291747027
+          ],
+          [
+            80.34016685015716,
+            7.0570002912228995
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 131,
+        "Entity": "Line",
+        "Handle": "5C194",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 5.402749049497828
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 132,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34026019030036,
+            7.057068538307404
+          ],
+          [
+            80.34030398665995,
+            7.057075086629543
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 132,
+        "Entity": "Line",
+        "Handle": "5C195",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 122.31000000026648,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 4.890955328232593
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 133,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34026093610929,
+            7.057057217288171
+          ],
+          [
+            80.34027399055722,
+            7.057059169635491
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 133,
+        "Entity": "Line",
+        "Handle": "5C196",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 1,
+        "Linetype": "Continuous",
+        "Elevation": 122.79046006723627,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.4578624245664635
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 134,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.34026019030036,
+            7.057068538307404
+          ],
+          [
+            80.34026116097037,
+            7.057053798461054
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 134,
+        "Entity": "Line",
+        "Handle": "5C197",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 183.27092010677148,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 1.633072594282101
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 135,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33991201619996,
+            7.056987292769652
+          ],
+          [
+            80.33987553958185,
+            7.056880259949885
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 135,
+        "Entity": "Line",
+        "Handle": "5C1A2",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 12.499916839064523
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 136,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33991907329906,
+            7.05701720398331
+          ],
+          [
+            80.33991201619996,
+            7.056987292769652
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 136,
+        "Entity": "LWPolyline",
+        "Handle": "5C1AE",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 3.3974203893826385
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 137,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.33990942720773,
+            7.057062958037149
+          ],
+          [
+            80.33985024597344,
+            7.057096532116926
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 137,
+        "Entity": "Line",
+        "Handle": "5C1B6",
+        "Layer": "exc-1-ARC",
+        "LyrFrzn": 0,
+        "LyrOn": 1,
+        "Color": 2,
+        "Linetype": "Continuous",
+        "Elevation": 62.309999999999995,
+        "LineWt": 0,
+        "RefName": "",
+        "DocUpdate": 1783359710000,
+        "DocId": 1.1061215596273316e+19,
+        "t0": null,
+        "t00": null,
+        "Shape_Length": 7.5166350191929165
+      }
+    }
+  ]
+}
