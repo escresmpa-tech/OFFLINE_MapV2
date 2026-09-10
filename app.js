@@ -1,16 +1,22 @@
-// 1. Initialize Map (Force the map container to allow deep zooming)
+// 1. Initialize Map
 const map = L.map('map', {
     maxZoom: 22 
 }).setView([7.058, 80.34], 13); 
 
-// 2. Load Local Custom Imagery Basemap
+// 2. Load Google Maps Hybrid (Bottom Layer)
+L.tileLayer('https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}', {
+    maxZoom: 22,
+    attribution: '© Google'
+}).addTo(map);
+
+// 3. Load Local Custom Imagery Basemap (Top Layer)
 L.tileLayer('imagery_tiles/{z}/{x}/{y}.png', {
     minZoom: 13,
-    maxNativeZoom: 18, // Change this to the highest zoom level you exported from QGIS
-    maxZoom: 22,       // How far you are allowed to pinch-to-zoom on your screen
-    tms: false,
-    attribution: 'Project Imagery'
+    maxNativeZoom: 18, // Adjust if your QGIS export zoom was different
+    maxZoom: 22,       
+    tms: false
 }).addTo(map);
+
 // 3. Your updated .geojson files
 const spatialFiles = [
     'AMSL_115.geojson', 'AMSL_125.geojson', 'C_TINN_BNDY.geojson', 'Camp_sites.geojson',
