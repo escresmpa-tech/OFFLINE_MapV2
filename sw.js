@@ -1,4 +1,4 @@
-const CACHE_NAME = 'map-app-v5';
+const CACHE_NAME = 'map-app-v6';
 const ASSETS_TO_CACHE = [
     '/',
     '/index.html',
@@ -53,10 +53,13 @@ self.addEventListener('fetch', event => {
         caches.match(event.request).then(cachedResponse => {
             if (cachedResponse) return cachedResponse;
             return fetch(event.request).then(networkResponse => {
-                if (event.request.url.includes('tile.openstreetmap.org')) {
+                
+                // UPDATE THIS LINE to look for your local folder
+                if (event.request.url.includes('imagery_tiles')) {
                     const responseClone = networkResponse.clone();
                     caches.open(CACHE_NAME).then(cache => cache.put(event.request, responseClone));
                 }
+                
                 return networkResponse;
             });
         }).catch(() => {
