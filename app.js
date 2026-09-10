@@ -4,7 +4,7 @@ const map = L.map('map').setView([7.058, 80.34], 13);
 // 2. Load Local Custom Imagery Basemap
 L.tileLayer('imagery_tiles/{z}/{x}/{y}.png', {
     minZoom: 13,
-    maxZoom: 17, // This must match the exact zoom levels you exported
+    maxZoom: 19, // This must match the exact zoom levels you exported
     tms: false,
     attribution: 'Project Imagery'
 }).addTo(map);
