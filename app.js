@@ -1,10 +1,12 @@
 // 1. Initialize Map
 const map = L.map('map').setView([7.058, 80.34], 13); 
 
-// 2. Load OpenStreetMap Basemap
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '© OpenStreetMap'
+// 2. Load Local Custom Imagery Basemap
+L.tileLayer('imagery_tiles/{z}/{x}/{y}.png', {
+    minZoom: 13,
+    maxZoom: 17, // This must match the exact zoom levels you exported
+    tms: false,
+    attribution: 'Project Imagery'
 }).addTo(map);
 
 // 3. Your updated .geojson files
