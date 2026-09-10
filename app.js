@@ -1,14 +1,16 @@
-// 1. Initialize Map
-const map = L.map('map').setView([7.058, 80.34], 13); 
+// 1. Initialize Map (Force the map container to allow deep zooming)
+const map = L.map('map', {
+    maxZoom: 22 
+}).setView([7.058, 80.34], 13); 
 
 // 2. Load Local Custom Imagery Basemap
 L.tileLayer('imagery_tiles/{z}/{x}/{y}.png', {
     minZoom: 13,
-    maxZoom: 19, // This must match the exact zoom levels you exported
+    maxNativeZoom: 18, // Change this to the highest zoom level you exported from QGIS
+    maxZoom: 22,       // How far you are allowed to pinch-to-zoom on your screen
     tms: false,
     attribution: 'Project Imagery'
 }).addTo(map);
-
 // 3. Your updated .geojson files
 const spatialFiles = [
     'AMSL_115.geojson', 'AMSL_125.geojson', 'C_TINN_BNDY.geojson', 'Camp_sites.geojson',
