@@ -1,4 +1,4 @@
-const CACHE_NAME = 'map-app-v8';
+const CACHE_NAME = 'map-app-v9';
 const ASSETS_TO_CACHE = [
     '/',
     '/index.html',
@@ -54,8 +54,8 @@ self.addEventListener('fetch', event => {
             if (cachedResponse) return cachedResponse;
             return fetch(event.request).then(networkResponse => {
                 
-                // UPDATE THIS LINE to look for your local folder
-                if (event.request.url.includes('imagery_tiles')) {
+                // Cache both your local tiles AND the Google Map tiles
+                if (event.request.url.includes('imagery_tiles') || event.request.url.includes('mt1.google.com')) {
                     const responseClone = networkResponse.clone();
                     caches.open(CACHE_NAME).then(cache => cache.put(event.request, responseClone));
                 }
