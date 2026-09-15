@@ -17,18 +17,20 @@ L.tileLayer('imagery_tiles/{z}/{x}/{y}.png', {
     tms: false
 }).addTo(map);
 
-// 3. Your updated .geojson files
+// 4. Your updated .geojson files (exactly 17 files)
 const spatialFiles = [
     'AMSL_115.geojson', 'AMSL_125.geojson', 'C_TINN_BNDY.geojson', 'Camp_sites.geojson',
     'Contour.geojson', 'DAM.geojson', 'Diversion_canal.geojson', 'Excavation_area.geojson',
     'Existing_Buildings.geojson', 'Irrigation_outlet.geojson', 'New_access.geojson',
-    'Power_house.geojson', 'PS.geojson', 'Road.geojson', 'Saddle_dam.geojson', 'Wee_Oya.geojson', 'Road_Corridor.geojson', 'Diversion_Canal.json'
+    'Power_house.geojson', 'PS.geojson', 'Road.geojson', 'Saddle_dam.geojson', 'Wee_Oya.geojson', 
+    'Road_Corridor.geojson'
 ];
 
+// 17 colors to match the 17 files
 const layerColors = [
     '#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4', 
     '#46f0f0', '#f032e6', '#bcf60c', '#fabebe', '#008080', '#e6beff', 
-    '#9a6324', '#fffac8', '#800000', '#aaffc3','#000000', '#ffffff'
+    '#9a6324', '#fffac8', '#800000', '#aaffc3', '#000000'
 ];
 
 const allLayersGroup = L.featureGroup().addTo(map);
@@ -53,7 +55,7 @@ spatialFiles.forEach(async (file, index) => {
     }
 });
 
-// 4. GPS Tracking
+// 5. GPS Tracking
 const userMarker = L.circleMarker([0, 0], { color: 'red', radius: 8, fillOpacity: 1 }).addTo(map);
 
 if ('geolocation' in navigator) {
@@ -66,7 +68,7 @@ if ('geolocation' in navigator) {
     );
 }
 
-// 5. Register Service Worker for Offline Mode
+// 6. Register Service Worker for Offline Mode
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
         navigator.serviceWorker.register('sw.js');
