@@ -10,7 +10,7 @@ const ASSETS_TO_CACHE = [
     '/Camp_sites.geojson',
     '/Contour.geojson',
     '/DAM.geojson',
-    '/Diversion_canal.geojson',
+    '/Diversion_Canal.geojson',
     '/Excavation_area.geojson',
     '/Existing_Buildings.geojson',
     '/Irrigation_outlet.geojson',
