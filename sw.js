@@ -20,6 +20,8 @@ const ASSETS_TO_CACHE = [
     '/Road.geojson',
     '/Saddle_dam.geojson',
     '/Wee_Oya.geojson',
+    '/Road_Corridor.geojson', 
+    '/Diversion_Canal.json',
     'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css',
     'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js'
 ];
