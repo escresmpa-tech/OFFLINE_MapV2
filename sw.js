@@ -1,4 +1,4 @@
-const CACHE_NAME = 'map-app-v9';
+const CACHE_NAME = 'map-app-v10';
 const ASSETS_TO_CACHE = [
     '/',
     '/index.html',
@@ -21,7 +21,6 @@ const ASSETS_TO_CACHE = [
     '/Saddle_dam.geojson',
     '/Wee_Oya.geojson',
     '/Road_Corridor.geojson', 
-    '/Diversion_Canal.json',
     'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css',
     'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js'
 ];
