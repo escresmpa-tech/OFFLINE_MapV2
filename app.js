@@ -20,7 +20,7 @@ L.tileLayer('imagery_tiles/{z}/{x}/{y}.png', {
 // 4. Your updated .geojson files (exactly 17 files)
 const spatialFiles = [
     'AMSL_115.geojson', 'AMSL_125.geojson', 'C_TINN_BNDY.geojson', 'Camp_sites.geojson',
-    'Contour.geojson', 'DAM.geojson', 'Diversion_canal.geojson', 'Excavation_area.geojson',
+    'Contour.geojson', 'DAM.geojson', 'Diversion_Canal.geojson', 'Excavation_area.geojson',
     'Existing_Buildings.geojson', 'Irrigation_outlet.geojson', 'New_access.geojson',
     'Power_house.geojson', 'PS.geojson', 'Road.geojson', 'Saddle_dam.geojson', 'Wee_Oya.geojson', 
     'Road_Corridor.geojson'
