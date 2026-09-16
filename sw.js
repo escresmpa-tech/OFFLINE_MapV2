@@ -1,4 +1,4 @@
-const CACHE_NAME = 'map-app-v8';
+const CACHE_NAME = 'map-app-v11';
 const ASSETS_TO_CACHE = [
     '/',
     '/index.html',
@@ -10,7 +10,7 @@ const ASSETS_TO_CACHE = [
     '/Camp_sites.geojson',
     '/Contour.geojson',
     '/DAM.geojson',
-    '/Diversion_canal.geojson',
+    '/Diversion_Canal.geojson',
     '/Excavation_area.geojson',
     '/Existing_Buildings.geojson',
     '/Irrigation_outlet.geojson',
@@ -20,6 +20,7 @@ const ASSETS_TO_CACHE = [
     '/Road.geojson',
     '/Saddle_dam.geojson',
     '/Wee_Oya.geojson',
+    '/Road_Corridor.geojson', 
     'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css',
     'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js'
 ];
@@ -54,8 +55,8 @@ self.addEventListener('fetch', event => {
             if (cachedResponse) return cachedResponse;
             return fetch(event.request).then(networkResponse => {
                 
-                // UPDATE THIS LINE to look for your local folder
-                if (event.request.url.includes('imagery_tiles')) {
+                // Cache both your local tiles AND the Google Map tiles
+                if (event.request.url.includes('imagery_tiles') || event.request.url.includes('mt1.google.com')) {
                     const responseClone = networkResponse.clone();
                     caches.open(CACHE_NAME).then(cache => cache.put(event.request, responseClone));
                 }
