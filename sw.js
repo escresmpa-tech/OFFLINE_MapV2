@@ -1,4 +1,4 @@
-const CACHE_NAME = 'map-app-v11';
+const CACHE_NAME = 'map-app-v12';
 const ASSETS_TO_CACHE = [
     '/',
     '/index.html',
