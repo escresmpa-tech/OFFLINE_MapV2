@@ -9,12 +9,22 @@ L.tileLayer('https://mt1.google.com/vt/lyrs=y&x={x}&y={y}&z={z}', {
     attribution: '© Google'
 }).addTo(map);
 
-// 3. Load Local Custom Imagery Basemap (Top Layer)
+// 3A. Base Custom Imagery (Loads zoom 13-19 everywhere, stretches if you zoom deeper)
 L.tileLayer('imagery_tiles/{z}/{x}/{y}.png', {
     minZoom: 13,
-    maxNativeZoom: 18, // Adjust if your QGIS export zoom was different
+    maxNativeZoom: 19, 
     maxZoom: 22,       
     tms: false
+}).addTo(map);
+
+// 3B. High-Res Inset (Loads ONLY zoom 20 for your critical areas)
+L.tileLayer('imagery_tiles/{z}/{x}/{y}.png', {
+    minZoom: 20,
+    maxNativeZoom: 20,
+    maxZoom: 22,
+    tms: false,
+    // If a zoom 20 tile doesn't exist outside your inset, this makes the error invisible so the stretched zoom 19 shows through cleanly!
+    errorTileUrl: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII='
 }).addTo(map);
 
 // 4. Your updated .geojson files (exactly 17 files)
